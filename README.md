@@ -1,6 +1,6 @@
 # Data-Science-and-Machine-Learning-with-Python
 
-# This repository demonstrates several projects and the complete workflow of data science and machine learning using Python. It covers data handling, cleaning, visualization, modeling, and NLP techniques on raw datasets (Excel/CSV files).
+This repository demonstrates several projects and the complete workflow of data science and machine learning using Python. It covers data handling, cleaning, visualization, modeling, and NLP techniques on raw datasets (Excel/CSV files).
 
 # 🚀 Key Features
 	•	Data Analysis – Explore datasets and extract insights.
