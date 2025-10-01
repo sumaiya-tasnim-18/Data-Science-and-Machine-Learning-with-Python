@@ -2,8 +2,8 @@
 This repository demonstrates the complete workflow of data science and machine learning using Python. It covers data handling, cleaning, visualization, and modeling techniques on raw datasets (Excel/CSV files).
 
 🚀 Key Features
-	•	Data Analysis – Explore datasets and extract insights.
-	•	Data Cleaning – Handle missing values, duplicates, inconsistencies , and outliers.
+	= •	Data Analysis – Explore datasets and extract insights.
+	= •	Data Cleaning – Handle missing values, duplicates, inconsistencies , and outliers.
 	•	Data Visualization – Create meaningful plots and graphs for better understanding.
 	•	Data Modeling (Classification) – Build and evaluate classification models.
 	•	Raw Dataset Handling – Work directly with Excel and CSV files.
